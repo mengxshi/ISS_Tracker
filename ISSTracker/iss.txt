@@ -1,0 +1,13 @@
+There are currently 10 astronauts on the ISS
+Sergey Prokopyev is on board
+Dmitry Petelin is on board
+Frank Rubio is on board
+Stephen Bowen is on board
+Warren Hoburg is on board
+Sultan Alneyadi is on board
+Andrey Fedyaev is on board
+Jing Haiping is on board
+Gui Haichow is on board
+Zhu Yangzhu is on board
+Your current lat is 42.2776
+Your current long is -83.7409
