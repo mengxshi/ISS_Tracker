@@ -82,10 +82,6 @@ while True:
     #makes the ISS logo go to the live longitude and latitude 
     iss.goto(lon, lat)
     iss.pendown()
-    
-    #if altitude >= threshold_altitude:
-    #    if 42.3 <= lat <= 42.32 and -84.46 <= lon <= -83.44:
-    #        print("ISS passing by")
            
 
     time.sleep(1)
